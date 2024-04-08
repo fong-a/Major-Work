@@ -6,3 +6,6 @@
 # 4 - Login to GitHub within VSCode (button with head on bottom left)
 # 5 - Setup a development folder somewhere on your computer
 # 6 - Open as folder within VSCode File > Open Folder > Major Folder 
+# 7 - Click source control > Publish Branch
+# 8 - Choose public or private
+# 9 - Sync
